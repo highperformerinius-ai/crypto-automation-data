@@ -1,8 +1,8 @@
-# Data files
-Binance_Data/data/*.xlsx
-Binance_Data/data/*.csv
-Bybit_Data/data/*.xlsx
-Bybit_Data/data/*.csv
+# Data files (commented out to include all data)
+# Binance_Data/data/*.xlsx
+# Binance_Data/data/*.csv
+# Bybit_Data/data/*.xlsx
+# Bybit_Data/data/*.csv
 
 # Log files
 Binance_Data/logs/*.log
