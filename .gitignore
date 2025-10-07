@@ -1,0 +1,44 @@
+# Data files
+Binance_Data/data/*.xlsx
+Binance_Data/data/*.csv
+Bybit_Data/data/*.xlsx
+Bybit_Data/data/*.csv
+
+# Log files
+Binance_Data/logs/*.log
+Bybit_Data/logs/*.log
+*.log
+
+# Error files
+Binance_Data/errors/*
+Bybit_Data/errors/*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# Test files
+test_*.py
+
+# Embedded repositories
+DataFetch/

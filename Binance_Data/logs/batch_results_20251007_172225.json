@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-07T15:22:25.753558+00:00",
+    "exchange": "binance",
+    "total_processed": 3,
+    "statistics": {
+      "total_assets": 3,
+      "processed": 3,
+      "successful": 3,
+      "failed": 0,
+      "skipped": 0,
+      "errors": [],
+      "start_time": "2025-10-07T15:21:23.774804+00:00",
+      "end_time": "2025-10-07T15:22:25.753536+00:00"
+    }
+  },
+  "results": [
+    {
+      "symbol": "PEPEUSDT",
+      "success": true,
+      "error": null,
+      "files_created": [
+        "PEPEUSDT_binance_spot_72h_1h.csv",
+        "PEPEUSDT_binance_spot_72h_1h.xlsx",
+        "PEPEUSDT_binance_spot_5d_1h.csv"
+      ],
+      "validation_passed": true,
+      "processing_time": 17.687707901000977,
+      "timestamp": "2025-10-07T15:21:23.775047+00:00",
+      "windows_processed": [
+        {
+          "window": "72h",
+          "success": true,
+          "csv_path": "Binance_Data/data/PEPEUSDT_binance_spot_72h_1h.csv",
+          "excel_path": "Binance_Data/data/PEPEUSDT_binance_spot_72h_1h.xlsx"
+        },
+        {
+          "window": "5d",
+          "success": true,
+          "csv_path": "Binance_Data/data/PEPEUSDT_binance_spot_5d_1h.csv",
+          "excel_path": null
+        }
+      ]
+    },
+    {
+      "symbol": "BONKUSDT",
+      "success": true,
+      "error": null,
+      "files_created": [
+        "BONKUSDT_binance_spot_72h_1h.csv",
+        "BONKUSDT_binance_spot_72h_1h.xlsx",
+        "BONKUSDT_binance_spot_5d_1h.csv"
+      ],
+      "validation_passed": true,
+      "processing_time": 15.579896926879883,
+      "timestamp": "2025-10-07T15:21:44.468363+00:00",
+      "windows_processed": [
+        {
+          "window": "72h",
+          "success": true,
+          "csv_path": "Binance_Data/data/BONKUSDT_binance_spot_72h_1h.csv",
+          "excel_path": "Binance_Data/data/BONKUSDT_binance_spot_72h_1h.xlsx"
+        },
+        {
+          "window": "5d",
+          "success": true,
+          "csv_path": "Binance_Data/data/BONKUSDT_binance_spot_5d_1h.csv",
+          "excel_path": null
+        }
+      ]
+    },
+    {
+      "symbol": "BTCUSDT",
+      "success": true,
+      "error": null,
+      "files_created": [
+        "BTCUSDT_binance_spot_72h_1h.csv",
+        "BTCUSDT_binance_spot_72h_1h.xlsx",
+        "BTCUSDT_binance_spot_5d_1h.csv"
+      ],
+      "validation_passed": true,
+      "processing_time": 22.70425510406494,
+      "timestamp": "2025-10-07T15:22:03.049233+00:00",
+      "windows_processed": [
+        {
+          "window": "72h",
+          "success": true,
+          "csv_path": "Binance_Data/data/BTCUSDT_binance_spot_72h_1h.csv",
+          "excel_path": "Binance_Data/data/BTCUSDT_binance_spot_72h_1h.xlsx"
+        },
+        {
+          "window": "5d",
+          "success": true,
+          "csv_path": "Binance_Data/data/BTCUSDT_binance_spot_5d_1h.csv",
+          "excel_path": null
+        }
+      ]
+    }
+  ]
+}
