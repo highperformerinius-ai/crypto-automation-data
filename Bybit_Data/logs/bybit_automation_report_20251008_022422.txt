@@ -1,0 +1,2055 @@
+BYBIT AUTOMATION REPORT
+================================================================================
+Generated: 2025-10-08T02:24:22.786249
+Processing Duration: 5:21:26.269192
+
+SUMMARY
+----------------------------------------
+Total symbols: 510
+Processed: 510
+Successful: 510
+Failed: 0
+Success rate: 100.0%
+
+SUCCESSFUL ASSETS
+----------------------------------------
+✓ 0GUSDT
+  Files: ['Bybit_Data/data/0GUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/0GUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/0GUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/0GUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ 1INCHUSDT
+  Files: ['Bybit_Data/data/1INCHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/1INCHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/1INCHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/1INCHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ 2ZUSDT
+  Files: ['Bybit_Data/data/2ZUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/2ZUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/2ZUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/2ZUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ A8USDT
+  Files: ['Bybit_Data/data/A8USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/A8USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/A8USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/A8USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AAPLXUSDT
+  Files: ['Bybit_Data/data/AAPLXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AAPLXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AAPLXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AAPLXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AAVEUSDT
+  Files: ['Bybit_Data/data/AAVEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AAVEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AAVEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AAVEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ACHUSDT
+  Files: ['Bybit_Data/data/ACHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ACHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ACHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ACHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ACSUSDT
+  Files: ['Bybit_Data/data/ACSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ACSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ACSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ACSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ADAUSDT
+  Files: ['Bybit_Data/data/ADAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ADAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ADAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ADAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AEROUSDT
+  Files: ['Bybit_Data/data/AEROUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AEROUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AEROUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AEROUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AEVOUSDT
+  Files: ['Bybit_Data/data/AEVOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AEVOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AEVOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AEVOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AFCUSDT
+  Files: ['Bybit_Data/data/AFCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AFCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AFCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AFCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AFGUSDT
+  Files: ['Bybit_Data/data/AFGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AFGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AFGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AFGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AGIUSDT
+  Files: ['Bybit_Data/data/AGIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AGIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AGIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AGIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AGLDUSDT
+  Files: ['Bybit_Data/data/AGLDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AGLDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AGLDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AGLDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AI16ZUSDT
+  Files: ['Bybit_Data/data/AI16ZUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AI16ZUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AI16ZUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AI16ZUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AIOZUSDT
+  Files: ['Bybit_Data/data/AIOZUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AIOZUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AIOZUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AIOZUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AIXBTUSDT
+  Files: ['Bybit_Data/data/AIXBTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AIXBTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AIXBTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AIXBTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AKIUSDT
+  Files: ['Bybit_Data/data/AKIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AKIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AKIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AKIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ALCHUSDT
+  Files: ['Bybit_Data/data/ALCHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ALCHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ALCHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ALCHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ALGOUSDT
+  Files: ['Bybit_Data/data/ALGOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ALGOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ALGOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ALGOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ALTUSDT
+  Files: ['Bybit_Data/data/ALTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ALTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ALTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ALTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AMIUSDT
+  Files: ['Bybit_Data/data/AMIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AMIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AMIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AMIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AMZNXUSDT
+  Files: ['Bybit_Data/data/AMZNXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AMZNXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AMZNXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AMZNXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ANIMEUSDT
+  Files: ['Bybit_Data/data/ANIMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ANIMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ANIMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ANIMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ANKRUSDT
+  Files: ['Bybit_Data/data/ANKRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ANKRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ANKRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ANKRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AOUSDT
+  Files: ['Bybit_Data/data/AOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ APEUSDT
+  Files: ['Bybit_Data/data/APEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/APEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/APEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/APEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ APEXUSDT
+  Files: ['Bybit_Data/data/APEXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/APEXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/APEXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/APEXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ APPUSDT
+  Files: ['Bybit_Data/data/APPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/APPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/APPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/APPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ APTUSDT
+  Files: ['Bybit_Data/data/APTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/APTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/APTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/APTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ARBUSDT
+  Files: ['Bybit_Data/data/ARBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ARBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ARBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ARBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ARKMUSDT
+  Files: ['Bybit_Data/data/ARKMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ARKMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ARKMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ARKMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ARTUSDT
+  Files: ['Bybit_Data/data/ARTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ARTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ARTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ARTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ARTYUSDT
+  Files: ['Bybit_Data/data/ARTYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ARTYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ARTYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ARTYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ARUSDT
+  Files: ['Bybit_Data/data/ARUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ARUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ARUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ARUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ASRRUSDT
+  Files: ['Bybit_Data/data/ASRRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ASRRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ASRRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ASRRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ASTERUSDT
+  Files: ['Bybit_Data/data/ASTERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ASTERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ASTERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ASTERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ATHUSDT
+  Files: ['Bybit_Data/data/ATHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ATHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ATHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ATHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ATOMUSDT
+  Files: ['Bybit_Data/data/ATOMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ATOMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ATOMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ATOMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AURORAUSDT
+  Files: ['Bybit_Data/data/AURORAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AURORAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AURORAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AURORAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AUSDT
+  Files: ['Bybit_Data/data/AUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AVAILUSDT
+  Files: ['Bybit_Data/data/AVAILUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AVAILUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AVAILUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AVAILUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AVAUSDT
+  Files: ['Bybit_Data/data/AVAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AVAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AVAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AVAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AVAXUSDT
+  Files: ['Bybit_Data/data/AVAXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AVAXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AVAXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AVAXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AVLUSDT
+  Files: ['Bybit_Data/data/AVLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AVLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AVLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AVLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AVNTUSDT
+  Files: ['Bybit_Data/data/AVNTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AVNTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AVNTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AVNTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AXLUSDT
+  Files: ['Bybit_Data/data/AXLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AXLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AXLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AXLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ AXSUSDT
+  Files: ['Bybit_Data/data/AXSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/AXSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/AXSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/AXSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ B3TRUSDT
+  Files: ['Bybit_Data/data/B3TRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/B3TRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/B3TRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/B3TRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ B3USDT
+  Files: ['Bybit_Data/data/B3USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/B3USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/B3USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/B3USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BABY1USDT
+  Files: ['Bybit_Data/data/BABY1USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BABY1USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BABY1USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BABY1USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BABYDOGEUSDT
+  Files: ['Bybit_Data/data/BABYDOGEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BABYDOGEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BABYDOGEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BABYDOGEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BANUSDT
+  Files: ['Bybit_Data/data/BANUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BANUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BANUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BANUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BARDUSDT
+  Files: ['Bybit_Data/data/BARDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BARDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BARDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BARDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BATUSDT
+  Files: ['Bybit_Data/data/BATUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BATUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BATUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BATUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BBQUSDT
+  Files: ['Bybit_Data/data/BBQUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BBQUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BBQUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BBQUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BBSOLUSDT
+  Files: ['Bybit_Data/data/BBSOLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BBSOLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BBSOLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BBSOLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BBUSDT
+  Files: ['Bybit_Data/data/BBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BCHUSDT
+  Files: ['Bybit_Data/data/BCHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BCHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BCHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BCHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BCUTUSDT
+  Files: ['Bybit_Data/data/BCUTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BCUTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BCUTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BCUTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BDXNUSDT
+  Files: ['Bybit_Data/data/BDXNUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BDXNUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BDXNUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BDXNUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BEAMUSDT
+  Files: ['Bybit_Data/data/BEAMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BEAMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BEAMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BEAMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BELUSDT
+  Files: ['Bybit_Data/data/BELUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BELUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BELUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BELUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BERAUSDT
+  Files: ['Bybit_Data/data/BERAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BERAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BERAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BERAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BICOUSDT
+  Files: ['Bybit_Data/data/BICOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BICOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BICOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BICOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BLASTUSDT
+  Files: ['Bybit_Data/data/BLASTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BLASTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BLASTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BLASTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BLURUSDT
+  Files: ['Bybit_Data/data/BLURUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BLURUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BLURUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BLURUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BMTUSDT
+  Files: ['Bybit_Data/data/BMTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BMTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BMTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BMTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BNBUSDT
+  Files: ['Bybit_Data/data/BNBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BNBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BNBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BNBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BOBAUSDT
+  Files: ['Bybit_Data/data/BOBAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BOBAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BOBAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BOBAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BOMBUSDT
+  Files: ['Bybit_Data/data/BOMBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BOMBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BOMBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BOMBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BOMEUSDT
+  Files: ['Bybit_Data/data/BOMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BOMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BOMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BOMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BONKUSDT
+  Files: ['Bybit_Data/data/BONKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BONKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BONKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BONKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BRETTUSDT
+  Files: ['Bybit_Data/data/BRETTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BRETTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BRETTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BRETTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BRUSDT
+  Files: ['Bybit_Data/data/BRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BTCUSDT
+  Files: ['Bybit_Data/data/BTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ BTTUSDT
+  Files: ['Bybit_Data/data/BTTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/BTTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/BTTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/BTTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ C98USDT
+  Files: ['Bybit_Data/data/C98USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/C98USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/C98USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/C98USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CAKEUSDT
+  Files: ['Bybit_Data/data/CAKEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CAKEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CAKEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CAKEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CAMPUSDT
+  Files: ['Bybit_Data/data/CAMPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CAMPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CAMPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CAMPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CARVUSDT
+  Files: ['Bybit_Data/data/CARVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CARVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CARVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CARVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CATIUSDT
+  Files: ['Bybit_Data/data/CATIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CATIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CATIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CATIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CATUSDT
+  Files: ['Bybit_Data/data/CATUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CATUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CATUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CATUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CBKUSDT
+  Files: ['Bybit_Data/data/CBKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CBKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CBKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CBKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CELOUSDT
+  Files: ['Bybit_Data/data/CELOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CELOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CELOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CELOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CFGUSDT
+  Files: ['Bybit_Data/data/CFGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CFGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CFGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CFGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CGPTUSDT
+  Files: ['Bybit_Data/data/CGPTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CGPTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CGPTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CGPTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CHILLGUYUSDT
+  Files: ['Bybit_Data/data/CHILLGUYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CHILLGUYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CHILLGUYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CHILLGUYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CHZUSDT
+  Files: ['Bybit_Data/data/CHZUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CHZUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CHZUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CHZUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CITYUSDT
+  Files: ['Bybit_Data/data/CITYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CITYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CITYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CITYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CLOUDUSDT
+  Files: ['Bybit_Data/data/CLOUDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CLOUDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CLOUDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CLOUDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CMETHUSDT
+  Files: ['Bybit_Data/data/CMETHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CMETHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CMETHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CMETHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COAUSDT
+  Files: ['Bybit_Data/data/COAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COINXUSDT
+  Files: ['Bybit_Data/data/COINXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COINXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COINXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COINXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COMPUSDT
+  Files: ['Bybit_Data/data/COMPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COMPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COMPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COMPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COOKIEUSDT
+  Files: ['Bybit_Data/data/COOKIEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COOKIEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COOKIEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COOKIEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COOKUSDT
+  Files: ['Bybit_Data/data/COOKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COOKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COOKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COOKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COQUSDT
+  Files: ['Bybit_Data/data/COQUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COQUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COQUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COQUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ COREUSDT
+  Files: ['Bybit_Data/data/COREUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/COREUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/COREUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/COREUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CORNUSDT
+  Files: ['Bybit_Data/data/CORNUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CORNUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CORNUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CORNUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CPOOLUSDT
+  Files: ['Bybit_Data/data/CPOOLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CPOOLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CPOOLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CPOOLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CRCLXUSDT
+  Files: ['Bybit_Data/data/CRCLXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CRCLXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CRCLXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CRCLXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CRVUSDT
+  Files: ['Bybit_Data/data/CRVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CRVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CRVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CRVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CSPRUSDT
+  Files: ['Bybit_Data/data/CSPRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CSPRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CSPRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CSPRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CTAUSDT
+  Files: ['Bybit_Data/data/CTAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CTAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CTAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CTAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CTCUSDT
+  Files: ['Bybit_Data/data/CTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CUDISUSDT
+  Files: ['Bybit_Data/data/CUDISUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CUDISUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CUDISUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CUDISUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ CYBERUSDT
+  Files: ['Bybit_Data/data/CYBERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/CYBERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/CYBERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/CYBERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DAIUSDT
+  Files: ['Bybit_Data/data/DAIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DAIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DAIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DAIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DBRUSDT
+  Files: ['Bybit_Data/data/DBRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DBRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DBRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DBRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DEEPUSDT
+  Files: ['Bybit_Data/data/DEEPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DEEPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DEEPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DEEPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DEFIUSDT
+  Files: ['Bybit_Data/data/DEFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DEFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DEFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DEFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DEGENUSDT
+  Files: ['Bybit_Data/data/DEGENUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DEGENUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DEGENUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DEGENUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DGBUSDT
+  Files: ['Bybit_Data/data/DGBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DGBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DGBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DGBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DIAMUSDT
+  Files: ['Bybit_Data/data/DIAMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DIAMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DIAMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DIAMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DMAILUSDT
+  Files: ['Bybit_Data/data/DMAILUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DMAILUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DMAILUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DMAILUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DOGEUSDT
+  Files: ['Bybit_Data/data/DOGEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DOGEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DOGEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DOGEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DOGSUSDT
+  Files: ['Bybit_Data/data/DOGSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DOGSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DOGSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DOGSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DOLOUSDT
+  Files: ['Bybit_Data/data/DOLOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DOLOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DOLOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DOLOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DOMEUSDT
+  Files: ['Bybit_Data/data/DOMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DOMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DOMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DOMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DOODUSDT
+  Files: ['Bybit_Data/data/DOODUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DOODUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DOODUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DOODUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DOTUSDT
+  Files: ['Bybit_Data/data/DOTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DOTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DOTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DOTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DRIFTUSDT
+  Files: ['Bybit_Data/data/DRIFTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DRIFTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DRIFTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DRIFTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DUELUSDT
+  Files: ['Bybit_Data/data/DUELUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DUELUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DUELUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DUELUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DYDXUSDT
+  Files: ['Bybit_Data/data/DYDXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DYDXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DYDXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DYDXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ DYMUSDT
+  Files: ['Bybit_Data/data/DYMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/DYMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/DYMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/DYMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ EGLDUSDT
+  Files: ['Bybit_Data/data/EGLDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/EGLDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/EGLDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/EGLDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ EGP1USDT
+  Files: ['Bybit_Data/data/EGP1USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/EGP1USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/EGP1USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/EGP1USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ EIGENUSDT
+  Files: ['Bybit_Data/data/EIGENUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/EIGENUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/EIGENUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/EIGENUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ELDEUSDT
+  Files: ['Bybit_Data/data/ELDEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ELDEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ELDEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ELDEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ELXUSDT
+  Files: ['Bybit_Data/data/ELXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ELXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ELXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ELXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ENAUSDT
+  Files: ['Bybit_Data/data/ENAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ENAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ENAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ENAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ENJUSDT
+  Files: ['Bybit_Data/data/ENJUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ENJUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ENJUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ENJUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ENSUSDT
+  Files: ['Bybit_Data/data/ENSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ENSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ENSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ENSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ EPTUSDT
+  Files: ['Bybit_Data/data/EPTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/EPTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/EPTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/EPTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ERAUSDT
+  Files: ['Bybit_Data/data/ERAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ERAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ERAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ERAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ESEUSDT
+  Files: ['Bybit_Data/data/ESEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ESEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ESEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ESEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ESUSDT
+  Files: ['Bybit_Data/data/ESUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ESUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ESUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ESUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ETCUSDT
+  Files: ['Bybit_Data/data/ETCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ETCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ETCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ETCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ETHFIUSDT
+  Files: ['Bybit_Data/data/ETHFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ETHFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ETHFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ETHFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ETHUSDT
+  Files: ['Bybit_Data/data/ETHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ETHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ETHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ETHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ETHWUSDT
+  Files: ['Bybit_Data/data/ETHWUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ETHWUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ETHWUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ETHWUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ EVERUSDT
+  Files: ['Bybit_Data/data/EVERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/EVERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/EVERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/EVERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FETUSDT
+  Files: ['Bybit_Data/data/FETUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FETUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FETUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FETUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FFUSDT
+  Files: ['Bybit_Data/data/FFUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FFUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FFUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FFUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FHEUSDT
+  Files: ['Bybit_Data/data/FHEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FHEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FHEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FHEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FIDAUSDT
+  Files: ['Bybit_Data/data/FIDAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FIDAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FIDAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FIDAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FILUSDT
+  Files: ['Bybit_Data/data/FILUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FILUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FILUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FILUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FITFIUSDT
+  Files: ['Bybit_Data/data/FITFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FITFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FITFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FITFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FLIPUSDT
+  Files: ['Bybit_Data/data/FLIPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FLIPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FLIPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FLIPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FLOCKUSDT
+  Files: ['Bybit_Data/data/FLOCKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FLOCKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FLOCKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FLOCKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FLOKIUSDT
+  Files: ['Bybit_Data/data/FLOKIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FLOKIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FLOKIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FLOKIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FLOWUSDT
+  Files: ['Bybit_Data/data/FLOWUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FLOWUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FLOWUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FLOWUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FLRUSDT
+  Files: ['Bybit_Data/data/FLRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FLRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FLRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FLRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FLUIDUSDT
+  Files: ['Bybit_Data/data/FLUIDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FLUIDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FLUIDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FLUIDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FORTUSDT
+  Files: ['Bybit_Data/data/FORTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FORTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FORTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FORTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FOXYUSDT
+  Files: ['Bybit_Data/data/FOXYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FOXYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FOXYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FOXYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FRAGUSDT
+  Files: ['Bybit_Data/data/FRAGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FRAGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FRAGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FRAGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FTTUSDT
+  Files: ['Bybit_Data/data/FTTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FTTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FTTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FTTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FUELUSDT
+  Files: ['Bybit_Data/data/FUELUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FUELUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FUELUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FUELUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FUSDT
+  Files: ['Bybit_Data/data/FUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ FXSUSDT
+  Files: ['Bybit_Data/data/FXSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/FXSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/FXSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/FXSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ G3USDT
+  Files: ['Bybit_Data/data/G3USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/G3USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/G3USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/G3USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ G7USDT
+  Files: ['Bybit_Data/data/G7USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/G7USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/G7USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/G7USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GALAUSDT
+  Files: ['Bybit_Data/data/GALAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GALAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GALAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GALAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GALFTUSDT
+  Files: ['Bybit_Data/data/GALFTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GALFTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GALFTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GALFTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GAMEUSDT
+  Files: ['Bybit_Data/data/GAMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GAMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GAMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GAMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GLMRUSDT
+  Files: ['Bybit_Data/data/GLMRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GLMRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GLMRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GLMRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GMTUSDT
+  Files: ['Bybit_Data/data/GMTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GMTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GMTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GMTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GMXUSDT
+  Files: ['Bybit_Data/data/GMXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GMXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GMXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GMXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GOATUSDT
+  Files: ['Bybit_Data/data/GOATUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GOATUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GOATUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GOATUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GODSUSDT
+  Files: ['Bybit_Data/data/GODSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GODSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GODSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GODSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GOOGLXUSDT
+  Files: ['Bybit_Data/data/GOOGLXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GOOGLXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GOOGLXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GOOGLXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GPSUSDT
+  Files: ['Bybit_Data/data/GPSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GPSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GPSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GPSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GRASSUSDT
+  Files: ['Bybit_Data/data/GRASSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GRASSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GRASSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GRASSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GRTUSDT
+  Files: ['Bybit_Data/data/GRTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GRTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GRTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GRTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GSWIFTUSDT
+  Files: ['Bybit_Data/data/GSWIFTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GSWIFTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GSWIFTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GSWIFTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GTAIUSDT
+  Files: ['Bybit_Data/data/GTAIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GTAIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GTAIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GTAIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ GUSDT
+  Files: ['Bybit_Data/data/GUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/GUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/GUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/GUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HAEDALUSDT
+  Files: ['Bybit_Data/data/HAEDALUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HAEDALUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HAEDALUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HAEDALUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HBARUSDT
+  Files: ['Bybit_Data/data/HBARUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HBARUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HBARUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HBARUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HFTUSDT
+  Files: ['Bybit_Data/data/HFTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HFTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HFTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HFTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HMSTRUSDT
+  Files: ['Bybit_Data/data/HMSTRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HMSTRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HMSTRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HMSTRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HNTUSDT
+  Files: ['Bybit_Data/data/HNTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HNTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HNTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HNTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HOLOUSDT
+  Files: ['Bybit_Data/data/HOLOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HOLOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HOLOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HOLOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HOMEUSDT
+  Files: ['Bybit_Data/data/HOMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HOMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HOMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HOMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HOODXUSDT
+  Files: ['Bybit_Data/data/HOODXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HOODXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HOODXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HOODXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HOOKUSDT
+  Files: ['Bybit_Data/data/HOOKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HOOKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HOOKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HOOKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HPOS10IUSDT
+  Files: ['Bybit_Data/data/HPOS10IUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HPOS10IUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HPOS10IUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HPOS10IUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HTXUSDT
+  Files: ['Bybit_Data/data/HTXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HTXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HTXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HTXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HUMAUSDT
+  Files: ['Bybit_Data/data/HUMAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HUMAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HUMAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HUMAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HUSDT
+  Files: ['Bybit_Data/data/HUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HYPERUSDT
+  Files: ['Bybit_Data/data/HYPERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HYPERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HYPERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HYPERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ HYPEUSDT
+  Files: ['Bybit_Data/data/HYPEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/HYPEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/HYPEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/HYPEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ICNTUSDT
+  Files: ['Bybit_Data/data/ICNTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ICNTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ICNTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ICNTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ICPUSDT
+  Files: ['Bybit_Data/data/ICPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ICPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ICPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ICPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ICXUSDT
+  Files: ['Bybit_Data/data/ICXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ICXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ICXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ICXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ IDUSDT
+  Files: ['Bybit_Data/data/IDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/IDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/IDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/IDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ IMXUSDT
+  Files: ['Bybit_Data/data/IMXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/IMXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/IMXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/IMXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ INITUSDT
+  Files: ['Bybit_Data/data/INITUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/INITUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/INITUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/INITUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ INJUSDT
+  Files: ['Bybit_Data/data/INJUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/INJUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/INJUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/INJUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ INSPUSDT
+  Files: ['Bybit_Data/data/INSPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/INSPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/INSPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/INSPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ INTERUSDT
+  Files: ['Bybit_Data/data/INTERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/INTERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/INTERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/INTERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ IOUSDT
+  Files: ['Bybit_Data/data/IOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/IOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/IOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/IOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ IPUSDT
+  Files: ['Bybit_Data/data/IPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/IPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/IPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/IPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ IZIUSDT
+  Files: ['Bybit_Data/data/IZIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/IZIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/IZIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/IZIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JASMYUSDT
+  Files: ['Bybit_Data/data/JASMYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JASMYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JASMYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JASMYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JEFFUSDT
+  Files: ['Bybit_Data/data/JEFFUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JEFFUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JEFFUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JEFFUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JSTUSDT
+  Files: ['Bybit_Data/data/JSTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JSTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JSTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JSTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JTOUSDT
+  Files: ['Bybit_Data/data/JTOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JTOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JTOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JTOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JUPUSDT
+  Files: ['Bybit_Data/data/JUPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JUPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JUPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JUPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JUSDT
+  Files: ['Bybit_Data/data/JUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ JUVUSDT
+  Files: ['Bybit_Data/data/JUVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/JUVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/JUVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/JUVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KAIAUSDT
+  Files: ['Bybit_Data/data/KAIAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KAIAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KAIAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KAIAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KASTAUSDT
+  Files: ['Bybit_Data/data/KASTAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KASTAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KASTAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KASTAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KASUSDT
+  Files: ['Bybit_Data/data/KASUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KASUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KASUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KASUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KAVAUSDT
+  Files: ['Bybit_Data/data/KAVAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KAVAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KAVAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KAVAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KCSUSDT
+  Files: ['Bybit_Data/data/KCSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KCSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KCSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KCSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KDAUSDT
+  Files: ['Bybit_Data/data/KDAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KDAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KDAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KDAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KILOUSDT
+  Files: ['Bybit_Data/data/KILOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KILOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KILOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KILOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KMNOUSDT
+  Files: ['Bybit_Data/data/KMNOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KMNOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KMNOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KMNOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KSMUSDT
+  Files: ['Bybit_Data/data/KSMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KSMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KSMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KSMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KUBUSDT
+  Files: ['Bybit_Data/data/KUBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KUBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KUBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KUBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ KUSDT
+  Files: ['Bybit_Data/data/KUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/KUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/KUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/KUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ L3USDT
+  Files: ['Bybit_Data/data/L3USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/L3USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/L3USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/L3USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LADYSUSDT
+  Files: ['Bybit_Data/data/LADYSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LADYSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LADYSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LADYSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LAUSDT
+  Files: ['Bybit_Data/data/LAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LAVAUSDT
+  Files: ['Bybit_Data/data/LAVAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LAVAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LAVAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LAVAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LAYERUSDT
+  Files: ['Bybit_Data/data/LAYERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LAYERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LAYERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LAYERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LBTCUSDT
+  Files: ['Bybit_Data/data/LBTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LBTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LBTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LBTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LDOUSDT
+  Files: ['Bybit_Data/data/LDOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LDOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LDOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LDOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LFTUSDT
+  Files: ['Bybit_Data/data/LFTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LFTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LFTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LFTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LINEAUSDT
+  Files: ['Bybit_Data/data/LINEAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LINEAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LINEAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LINEAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LINKUSDT
+  Files: ['Bybit_Data/data/LINKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LINKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LINKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LINKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LLUSDT
+  Files: ['Bybit_Data/data/LLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LMWRUSDT
+  Files: ['Bybit_Data/data/LMWRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LMWRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LMWRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LMWRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LOOKSUSDT
+  Files: ['Bybit_Data/data/LOOKSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LOOKSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LOOKSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LOOKSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LRCUSDT
+  Files: ['Bybit_Data/data/LRCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LRCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LRCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LRCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LTCUSDT
+  Files: ['Bybit_Data/data/LTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LUNAIUSDT
+  Files: ['Bybit_Data/data/LUNAIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LUNAIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LUNAIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LUNAIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LUNAUSDT
+  Files: ['Bybit_Data/data/LUNAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LUNAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LUNAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LUNAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ LUNCUSDT
+  Files: ['Bybit_Data/data/LUNCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/LUNCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/LUNCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/LUNCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MAGICUSDT
+  Files: ['Bybit_Data/data/MAGICUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MAGICUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MAGICUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MAGICUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MAJORUSDT
+  Files: ['Bybit_Data/data/MAJORUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MAJORUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MAJORUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MAJORUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MANAUSDT
+  Files: ['Bybit_Data/data/MANAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MANAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MANAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MANAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MANTAUSDT
+  Files: ['Bybit_Data/data/MANTAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MANTAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MANTAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MANTAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MASAUSDT
+  Files: ['Bybit_Data/data/MASAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MASAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MASAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MASAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MASKUSDT
+  Files: ['Bybit_Data/data/MASKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MASKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MASKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MASKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MAVIAUSDT
+  Files: ['Bybit_Data/data/MAVIAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MAVIAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MAVIAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MAVIAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MBOXUSDT
+  Files: ['Bybit_Data/data/MBOXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MBOXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MBOXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MBOXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MBXUSDT
+  Files: ['Bybit_Data/data/MBXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MBXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MBXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MBXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MCDXUSDT
+  Files: ['Bybit_Data/data/MCDXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MCDXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MCDXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MCDXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MCRTUSDT
+  Files: ['Bybit_Data/data/MCRTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MCRTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MCRTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MCRTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MDAOUSDT
+  Files: ['Bybit_Data/data/MDAOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MDAOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MDAOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MDAOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MEEUSDT
+  Files: ['Bybit_Data/data/MEEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MEEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MEEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MEEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MEMEFIUSDT
+  Files: ['Bybit_Data/data/MEMEFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MEMEFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MEMEFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MEMEFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MEMEUSDT
+  Files: ['Bybit_Data/data/MEMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MEMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MEMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MEMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MERLUSDT
+  Files: ['Bybit_Data/data/MERLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MERLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MERLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MERLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ METAXUSDT
+  Files: ['Bybit_Data/data/METAXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/METAXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/METAXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/METAXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ METHUSDT
+  Files: ['Bybit_Data/data/METHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/METHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/METHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/METHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MEUSDT
+  Files: ['Bybit_Data/data/MEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MEWUSDT
+  Files: ['Bybit_Data/data/MEWUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MEWUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MEWUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MEWUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MILKUSDT
+  Files: ['Bybit_Data/data/MILKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MILKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MILKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MILKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MINAUSDT
+  Files: ['Bybit_Data/data/MINAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MINAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MINAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MINAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MIXUSDT
+  Files: ['Bybit_Data/data/MIXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MIXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MIXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MIXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MNTUSDT
+  Files: ['Bybit_Data/data/MNTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MNTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MNTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MNTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MOCAUSDT
+  Files: ['Bybit_Data/data/MOCAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MOCAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MOCAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MOCAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MODEUSDT
+  Files: ['Bybit_Data/data/MODEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MODEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MODEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MODEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MOGUSDT
+  Files: ['Bybit_Data/data/MOGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MOGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MOGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MOGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MONUSDT
+  Files: ['Bybit_Data/data/MONUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MONUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MONUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MONUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MORPHOUSDT
+  Files: ['Bybit_Data/data/MORPHOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MORPHOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MORPHOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MORPHOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MOVEUSDT
+  Files: ['Bybit_Data/data/MOVEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MOVEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MOVEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MOVEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MOVRUSDT
+  Files: ['Bybit_Data/data/MOVRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MOVRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MOVRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MOVRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MOZUSDT
+  Files: ['Bybit_Data/data/MOZUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MOZUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MOZUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MOZUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MPLXUSDT
+  Files: ['Bybit_Data/data/MPLXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MPLXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MPLXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MPLXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MVLUSDT
+  Files: ['Bybit_Data/data/MVLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MVLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MVLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MVLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MVUSDT
+  Files: ['Bybit_Data/data/MVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MXUSDT
+  Files: ['Bybit_Data/data/MXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MYRIAUSDT
+  Files: ['Bybit_Data/data/MYRIAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MYRIAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MYRIAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MYRIAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ MYROUSDT
+  Files: ['Bybit_Data/data/MYROUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/MYROUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/MYROUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/MYROUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NAKAUSDT
+  Files: ['Bybit_Data/data/NAKAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NAKAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NAKAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NAKAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NAVXUSDT
+  Files: ['Bybit_Data/data/NAVXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NAVXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NAVXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NAVXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NEARUSDT
+  Files: ['Bybit_Data/data/NEARUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NEARUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NEARUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NEARUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NEIROCTOUSDT
+  Files: ['Bybit_Data/data/NEIROCTOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NEIROCTOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NEIROCTOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NEIROCTOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NEIROUSDT
+  Files: ['Bybit_Data/data/NEIROUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NEIROUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NEIROUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NEIROUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NEONUSDT
+  Files: ['Bybit_Data/data/NEONUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NEONUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NEONUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NEONUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NEWTUSDT
+  Files: ['Bybit_Data/data/NEWTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NEWTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NEWTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NEWTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NEXOUSDT
+  Files: ['Bybit_Data/data/NEXOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NEXOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NEXOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NEXOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NFTUSDT
+  Files: ['Bybit_Data/data/NFTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NFTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NFTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NFTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NIBIUSDT
+  Files: ['Bybit_Data/data/NIBIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NIBIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NIBIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NIBIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NOMUSDT
+  Files: ['Bybit_Data/data/NOMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NOMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NOMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NOMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NOTUSDT
+  Files: ['Bybit_Data/data/NOTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NOTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NOTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NOTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NRNUSDT
+  Files: ['Bybit_Data/data/NRNUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NRNUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NRNUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NRNUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NSUSDT
+  Files: ['Bybit_Data/data/NSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NVDAXUSDT
+  Files: ['Bybit_Data/data/NVDAXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NVDAXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NVDAXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NVDAXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NXPCUSDT
+  Files: ['Bybit_Data/data/NXPCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NXPCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NXPCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NXPCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ NYMUSDT
+  Files: ['Bybit_Data/data/NYMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/NYMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/NYMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/NYMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OASUSDT
+  Files: ['Bybit_Data/data/OASUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OASUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OASUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OASUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OBOLUSDT
+  Files: ['Bybit_Data/data/OBOLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OBOLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OBOLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OBOLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OBTUSDT
+  Files: ['Bybit_Data/data/OBTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OBTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OBTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OBTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ODOSUSDT
+  Files: ['Bybit_Data/data/ODOSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ODOSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ODOSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ODOSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OIKUSDT
+  Files: ['Bybit_Data/data/OIKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OIKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OIKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OIKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OLUSDT
+  Files: ['Bybit_Data/data/OLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OMUSDT
+  Files: ['Bybit_Data/data/OMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ONDOUSDT
+  Files: ['Bybit_Data/data/ONDOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ONDOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ONDOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ONDOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ONEUSDT
+  Files: ['Bybit_Data/data/ONEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ONEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ONEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ONEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ OPUSDT
+  Files: ['Bybit_Data/data/OPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/OPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/OPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/OPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ORDERUSDT
+  Files: ['Bybit_Data/data/ORDERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ORDERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ORDERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ORDERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ORDIUSDT
+  Files: ['Bybit_Data/data/ORDIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ORDIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ORDIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ORDIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ORTUSDT
+  Files: ['Bybit_Data/data/ORTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ORTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ORTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ORTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PAALUSDT
+  Files: ['Bybit_Data/data/PAALUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PAALUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PAALUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PAALUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PARTIUSDT
+  Files: ['Bybit_Data/data/PARTIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PARTIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PARTIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PARTIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PAWSUSDT
+  Files: ['Bybit_Data/data/PAWSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PAWSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PAWSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PAWSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PELLUSDT
+  Files: ['Bybit_Data/data/PELLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PELLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PELLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PELLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PENDLEUSDT
+  Files: ['Bybit_Data/data/PENDLEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PENDLEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PENDLEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PENDLEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PENGUUSDT
+  Files: ['Bybit_Data/data/PENGUUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PENGUUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PENGUUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PENGUUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PEOPLEUSDT
+  Files: ['Bybit_Data/data/PEOPLEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PEOPLEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PEOPLEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PEOPLEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PEPEUSDT
+  Files: ['Bybit_Data/data/PEPEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PEPEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PEPEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PEPEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PERPUSDT
+  Files: ['Bybit_Data/data/PERPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PERPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PERPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PERPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PFVSUSDT
+  Files: ['Bybit_Data/data/PFVSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PFVSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PFVSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PFVSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PINEYEUSDT
+  Files: ['Bybit_Data/data/PINEYEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PINEYEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PINEYEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PINEYEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PIRATEUSDT
+  Files: ['Bybit_Data/data/PIRATEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PIRATEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PIRATEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PIRATEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PIXFIUSDT
+  Files: ['Bybit_Data/data/PIXFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PIXFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PIXFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PIXFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PLUMEUSDT
+  Files: ['Bybit_Data/data/PLUMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PLUMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PLUMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PLUMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PNUTUSDT
+  Files: ['Bybit_Data/data/PNUTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PNUTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PNUTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PNUTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ POLUSDT
+  Files: ['Bybit_Data/data/POLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/POLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/POLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/POLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PONKEUSDT
+  Files: ['Bybit_Data/data/PONKEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PONKEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PONKEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PONKEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ POPCATUSDT
+  Files: ['Bybit_Data/data/POPCATUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/POPCATUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/POPCATUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/POPCATUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PORT3USDT
+  Files: ['Bybit_Data/data/PORT3USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PORT3USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PORT3USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PORT3USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PORTALSUSDT
+  Files: ['Bybit_Data/data/PORTALSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PORTALSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PORTALSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PORTALSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PORTALUSDT
+  Files: ['Bybit_Data/data/PORTALUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PORTALUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PORTALUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PORTALUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PRCLUSDT
+  Files: ['Bybit_Data/data/PRCLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PRCLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PRCLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PRCLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PRIMEUSDT
+  Files: ['Bybit_Data/data/PRIMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PRIMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PRIMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PRIMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PROVEUSDT
+  Files: ['Bybit_Data/data/PROVEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PROVEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PROVEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PROVEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PSGUSDT
+  Files: ['Bybit_Data/data/PSGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PSGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PSGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PSGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PSTAKEUSDT
+  Files: ['Bybit_Data/data/PSTAKEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PSTAKEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PSTAKEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PSTAKEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PUFFERUSDT
+  Files: ['Bybit_Data/data/PUFFERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PUFFERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PUFFERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PUFFERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PUFFUSDT
+  Files: ['Bybit_Data/data/PUFFUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PUFFUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PUFFUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PUFFUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PUMPBTCUSDT
+  Files: ['Bybit_Data/data/PUMPBTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PUMPBTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PUMPBTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PUMPBTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PUMPUSDT
+  Files: ['Bybit_Data/data/PUMPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PUMPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PUMPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PUMPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PURSEUSDT
+  Files: ['Bybit_Data/data/PURSEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PURSEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PURSEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PURSEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PYTHUSDT
+  Files: ['Bybit_Data/data/PYTHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PYTHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PYTHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PYTHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ PYUSDUSDT
+  Files: ['Bybit_Data/data/PYUSDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/PYUSDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/PYUSDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/PYUSDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ QNTUSDT
+  Files: ['Bybit_Data/data/QNTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/QNTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/QNTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/QNTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ QORPOUSDT
+  Files: ['Bybit_Data/data/QORPOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/QORPOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/QORPOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/QORPOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ QTUMUSDT
+  Files: ['Bybit_Data/data/QTUMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/QTUMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/QTUMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/QTUMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RACAUSDT
+  Files: ['Bybit_Data/data/RACAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RACAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RACAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RACAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RATSUSDT
+  Files: ['Bybit_Data/data/RATSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RATSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RATSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RATSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RDNTUSDT
+  Files: ['Bybit_Data/data/RDNTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RDNTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RDNTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RDNTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ REDUSDT
+  Files: ['Bybit_Data/data/REDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/REDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/REDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/REDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RENDERUSDT
+  Files: ['Bybit_Data/data/RENDERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RENDERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RENDERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RENDERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RESOLVUSDT
+  Files: ['Bybit_Data/data/RESOLVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RESOLVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RESOLVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RESOLVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RLUSDUSDT
+  Files: ['Bybit_Data/data/RLUSDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RLUSDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RLUSDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RLUSDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ROAMUSDT
+  Files: ['Bybit_Data/data/ROAMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ROAMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ROAMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ROAMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ROOTUSDT
+  Files: ['Bybit_Data/data/ROOTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ROOTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ROOTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ROOTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ROSEUSDT
+  Files: ['Bybit_Data/data/ROSEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ROSEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ROSEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ROSEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RPLUSDT
+  Files: ['Bybit_Data/data/RPLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RPLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RPLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RPLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RSS3USDT
+  Files: ['Bybit_Data/data/RSS3USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RSS3USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RSS3USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RSS3USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RUNEUSDT
+  Files: ['Bybit_Data/data/RUNEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RUNEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RUNEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RUNEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ RVNUSDT
+  Files: ['Bybit_Data/data/RVNUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/RVNUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/RVNUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/RVNUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SAFEUSDT
+  Files: ['Bybit_Data/data/SAFEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SAFEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SAFEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SAFEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SAHARAUSDT
+  Files: ['Bybit_Data/data/SAHARAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SAHARAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SAHARAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SAHARAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SANDUSDT
+  Files: ['Bybit_Data/data/SANDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SANDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SANDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SANDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SAROSUSDT
+  Files: ['Bybit_Data/data/SAROSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SAROSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SAROSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SAROSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SATSUSDT
+  Files: ['Bybit_Data/data/SATSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SATSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SATSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SATSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SCAUSDT
+  Files: ['Bybit_Data/data/SCAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SCAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SCAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SCAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SCRTUSDT
+  Files: ['Bybit_Data/data/SCRTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SCRTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SCRTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SCRTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SCRUSDT
+  Files: ['Bybit_Data/data/SCRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SCRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SCRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SCRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SCUSDT
+  Files: ['Bybit_Data/data/SCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SDUSDT
+  Files: ['Bybit_Data/data/SDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SEIUSDT
+  Files: ['Bybit_Data/data/SEIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SEIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SEIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SEIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SENDUSDT
+  Files: ['Bybit_Data/data/SENDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SENDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SENDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SENDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SERAPHUSDT
+  Files: ['Bybit_Data/data/SERAPHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SERAPHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SERAPHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SERAPHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SFUNDUSDT
+  Files: ['Bybit_Data/data/SFUNDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SFUNDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SFUNDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SFUNDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SHARDSUSDT
+  Files: ['Bybit_Data/data/SHARDSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SHARDSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SHARDSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SHARDSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SHIBUSDT
+  Files: ['Bybit_Data/data/SHIBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SHIBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SHIBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SHIBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SHRAPUSDT
+  Files: ['Bybit_Data/data/SHRAPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SHRAPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SHRAPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SHRAPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SIDUSUSDT
+  Files: ['Bybit_Data/data/SIDUSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SIDUSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SIDUSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SIDUSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SIGNUSDT
+  Files: ['Bybit_Data/data/SIGNUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SIGNUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SIGNUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SIGNUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SISUSDT
+  Files: ['Bybit_Data/data/SISUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SISUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SISUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SISUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SKATEUSDT
+  Files: ['Bybit_Data/data/SKATEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SKATEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SKATEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SKATEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SKYUSDT
+  Files: ['Bybit_Data/data/SKYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SKYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SKYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SKYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SLPUSDT
+  Files: ['Bybit_Data/data/SLPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SLPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SLPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SLPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SNXUSDT
+  Files: ['Bybit_Data/data/SNXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SNXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SNXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SNXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SOLOUSDT
+  Files: ['Bybit_Data/data/SOLOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SOLOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SOLOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SOLOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SOLUSDT
+  Files: ['Bybit_Data/data/SOLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SOLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SOLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SOLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SOLVUSDT
+  Files: ['Bybit_Data/data/SOLVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SOLVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SOLVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SOLVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SOMIUSDT
+  Files: ['Bybit_Data/data/SOMIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SOMIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SOMIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SOMIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SONICUSDT
+  Files: ['Bybit_Data/data/SONICUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SONICUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SONICUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SONICUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SOSOUSDT
+  Files: ['Bybit_Data/data/SOSOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SOSOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SOSOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SOSOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SPECUSDT
+  Files: ['Bybit_Data/data/SPECUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SPECUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SPECUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SPECUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SPELLUSDT
+  Files: ['Bybit_Data/data/SPELLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SPELLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SPELLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SPELLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SPKUSDT
+  Files: ['Bybit_Data/data/SPKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SPKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SPKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SPKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SPXUSDT
+  Files: ['Bybit_Data/data/SPXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SPXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SPXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SPXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SQDUSDT
+  Files: ['Bybit_Data/data/SQDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SQDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SQDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SQDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SQRUSDT
+  Files: ['Bybit_Data/data/SQRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SQRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SQRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SQRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SQTUSDT
+  Files: ['Bybit_Data/data/SQTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SQTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SQTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SQTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SSVUSDT
+  Files: ['Bybit_Data/data/SSVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SSVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SSVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SSVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ STETHUSDT
+  Files: ['Bybit_Data/data/STETHUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/STETHUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/STETHUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/STETHUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ STOPUSDT
+  Files: ['Bybit_Data/data/STOPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/STOPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/STOPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/STOPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ STREAMUSDT
+  Files: ['Bybit_Data/data/STREAMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/STREAMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/STREAMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/STREAMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ STRKUSDT
+  Files: ['Bybit_Data/data/STRKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/STRKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/STRKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/STRKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ STXUSDT
+  Files: ['Bybit_Data/data/STXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/STXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/STXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/STXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SUIUSDT
+  Files: ['Bybit_Data/data/SUIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SUIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SUIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SUIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SUNDOGUSDT
+  Files: ['Bybit_Data/data/SUNDOGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SUNDOGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SUNDOGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SUNDOGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SUNUSDT
+  Files: ['Bybit_Data/data/SUNUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SUNUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SUNUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SUNUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SUPRAUSDT
+  Files: ['Bybit_Data/data/SUPRAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SUPRAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SUPRAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SUPRAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SUSDT
+  Files: ['Bybit_Data/data/SUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SUSHIUSDT
+  Files: ['Bybit_Data/data/SUSHIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SUSHIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SUSHIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SUSHIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SVLUSDT
+  Files: ['Bybit_Data/data/SVLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SVLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SVLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SVLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SWEATUSDT
+  Files: ['Bybit_Data/data/SWEATUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SWEATUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SWEATUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SWEATUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SWELLUSDT
+  Files: ['Bybit_Data/data/SWELLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SWELLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SWELLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SWELLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ SXTUSDT
+  Files: ['Bybit_Data/data/SXTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/SXTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/SXTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/SXTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TACUSDT
+  Files: ['Bybit_Data/data/TACUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TACUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TACUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TACUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TAIKOUSDT
+  Files: ['Bybit_Data/data/TAIKOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TAIKOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TAIKOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TAIKOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TAIUSDT
+  Files: ['Bybit_Data/data/TAIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TAIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TAIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TAIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TAUSDT
+  Files: ['Bybit_Data/data/TAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TELUSDT
+  Files: ['Bybit_Data/data/TELUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TELUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TELUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TELUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ THETAUSDT
+  Files: ['Bybit_Data/data/THETAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/THETAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/THETAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/THETAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TIAUSDT
+  Files: ['Bybit_Data/data/TIAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TIAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TIAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TIAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TIMEUSDT
+  Files: ['Bybit_Data/data/TIMEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TIMEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TIMEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TIMEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TNSRUSDT
+  Files: ['Bybit_Data/data/TNSRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TNSRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TNSRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TNSRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TOKENUSDT
+  Files: ['Bybit_Data/data/TOKENUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TOKENUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TOKENUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TOKENUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TOMIUSDT
+  Files: ['Bybit_Data/data/TOMIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TOMIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TOMIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TOMIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TONUSDT
+  Files: ['Bybit_Data/data/TONUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TONUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TONUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TONUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TOSHIUSDT
+  Files: ['Bybit_Data/data/TOSHIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TOSHIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TOSHIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TOSHIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TOWNSUSDT
+  Files: ['Bybit_Data/data/TOWNSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TOWNSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TOWNSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TOWNSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TRCUSDT
+  Files: ['Bybit_Data/data/TRCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TRCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TRCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TRCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TREEUSDT
+  Files: ['Bybit_Data/data/TREEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TREEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TREEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TREEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TRUMPUSDT
+  Files: ['Bybit_Data/data/TRUMPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TRUMPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TRUMPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TRUMPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TRVLUSDT
+  Files: ['Bybit_Data/data/TRVLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TRVLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TRVLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TRVLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TRXUSDT
+  Files: ['Bybit_Data/data/TRXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TRXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TRXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TRXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TSLAXUSDT
+  Files: ['Bybit_Data/data/TSLAXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TSLAXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TSLAXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TSLAXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TUNAUSDT
+  Files: ['Bybit_Data/data/TUNAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TUNAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TUNAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TUNAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TURBOSUSDT
+  Files: ['Bybit_Data/data/TURBOSUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TURBOSUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TURBOSUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TURBOSUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TUSDUSDT
+  Files: ['Bybit_Data/data/TUSDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TUSDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TUSDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TUSDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ TWTUSDT
+  Files: ['Bybit_Data/data/TWTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/TWTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/TWTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/TWTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ULTIUSDT
+  Files: ['Bybit_Data/data/ULTIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ULTIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ULTIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ULTIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ UMAUSDT
+  Files: ['Bybit_Data/data/UMAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/UMAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/UMAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/UMAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ UNIUSDT
+  Files: ['Bybit_Data/data/UNIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/UNIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/UNIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/UNIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USD1USDT
+  Files: ['Bybit_Data/data/USD1USDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USD1USDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USD1USDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USD1USDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDCUSDT
+  Files: ['Bybit_Data/data/USDCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDDUSDT
+  Files: ['Bybit_Data/data/USDDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDEUSDT
+  Files: ['Bybit_Data/data/USDEUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDEUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDEUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDEUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDQUSDT
+  Files: ['Bybit_Data/data/USDQUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDQUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDQUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDQUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDRUSDT
+  Files: ['Bybit_Data/data/USDRUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDRUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDRUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDRUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDTBUSDT
+  Files: ['Bybit_Data/data/USDTBUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDTBUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDTBUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDTBUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USDYUSDT
+  Files: ['Bybit_Data/data/USDYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USDYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USDYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USDYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ USTCUSDT
+  Files: ['Bybit_Data/data/USTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/USTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/USTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/USTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ UUSDT
+  Files: ['Bybit_Data/data/UUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/UUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/UUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/UUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ UXLINKUSDT
+  Files: ['Bybit_Data/data/UXLINKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/UXLINKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/UXLINKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/UXLINKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VANAUSDT
+  Files: ['Bybit_Data/data/VANAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VANAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VANAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VANAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VANRYUSDT
+  Files: ['Bybit_Data/data/VANRYUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VANRYUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VANRYUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VANRYUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VELOUSDT
+  Files: ['Bybit_Data/data/VELOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VELOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VELOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VELOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VENOMUSDT
+  Files: ['Bybit_Data/data/VENOMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VENOMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VENOMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VENOMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VETUSDT
+  Files: ['Bybit_Data/data/VETUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VETUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VETUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VETUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VICUSDT
+  Files: ['Bybit_Data/data/VICUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VICUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VICUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VICUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VINUUSDT
+  Files: ['Bybit_Data/data/VINUUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VINUUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VINUUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VINUUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VIRTUALUSDT
+  Files: ['Bybit_Data/data/VIRTUALUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VIRTUALUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VIRTUALUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VIRTUALUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VRAUSDT
+  Files: ['Bybit_Data/data/VRAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VRAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VRAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VRAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VTHOUSDT
+  Files: ['Bybit_Data/data/VTHOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VTHOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VTHOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VTHOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ VVVUSDT
+  Files: ['Bybit_Data/data/VVVUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/VVVUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/VVVUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/VVVUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WALUSDT
+  Files: ['Bybit_Data/data/WALUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WALUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WALUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WALUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WAVESUSDT
+  Files: ['Bybit_Data/data/WAVESUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WAVESUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WAVESUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WAVESUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WAXPUSDT
+  Files: ['Bybit_Data/data/WAXPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WAXPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WAXPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WAXPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WBTCUSDT
+  Files: ['Bybit_Data/data/WBTCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WBTCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WBTCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WBTCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WCTUSDT
+  Files: ['Bybit_Data/data/WCTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WCTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WCTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WCTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WEMIXUSDT
+  Files: ['Bybit_Data/data/WEMIXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WEMIXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WEMIXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WEMIXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WENUSDT
+  Files: ['Bybit_Data/data/WENUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WENUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WENUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WENUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WIFUSDT
+  Files: ['Bybit_Data/data/WIFUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WIFUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WIFUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WIFUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WLDUSDT
+  Files: ['Bybit_Data/data/WLDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WLDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WLDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WLDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WLFIUSDT
+  Files: ['Bybit_Data/data/WLFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WLFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WLFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WLFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WOOUSDT
+  Files: ['Bybit_Data/data/WOOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WOOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WOOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WOOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ WUSDT
+  Files: ['Bybit_Data/data/WUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/WUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/WUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/WUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XAIUSDT
+  Files: ['Bybit_Data/data/XAIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XAIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XAIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XAIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XANUSDT
+  Files: ['Bybit_Data/data/XANUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XANUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XANUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XANUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XAUTUSDT
+  Files: ['Bybit_Data/data/XAUTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XAUTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XAUTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XAUTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XAVAUSDT
+  Files: ['Bybit_Data/data/XAVAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XAVAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XAVAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XAVAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XCADUSDT
+  Files: ['Bybit_Data/data/XCADUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XCADUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XCADUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XCADUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XDCUSDT
+  Files: ['Bybit_Data/data/XDCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XDCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XDCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XDCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XECUSDT
+  Files: ['Bybit_Data/data/XECUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XECUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XECUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XECUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XEMUSDT
+  Files: ['Bybit_Data/data/XEMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XEMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XEMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XEMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XIONUSDT
+  Files: ['Bybit_Data/data/XIONUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XIONUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XIONUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XIONUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XLMUSDT
+  Files: ['Bybit_Data/data/XLMUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XLMUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XLMUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XLMUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XOUSDT
+  Files: ['Bybit_Data/data/XOUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XOUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XOUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XOUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XPLUSDT
+  Files: ['Bybit_Data/data/XPLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XPLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XPLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XPLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XRPUSDT
+  Files: ['Bybit_Data/data/XRPUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XRPUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XRPUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XRPUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XTERUSDT
+  Files: ['Bybit_Data/data/XTERUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XTERUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XTERUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XTERUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XTZUSDT
+  Files: ['Bybit_Data/data/XTZUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XTZUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XTZUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XTZUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XUSDT
+  Files: ['Bybit_Data/data/XUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ XUSDUSDT
+  Files: ['Bybit_Data/data/XUSDUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/XUSDUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/XUSDUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/XUSDUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ YFIUSDT
+  Files: ['Bybit_Data/data/YFIUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/YFIUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/YFIUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/YFIUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZENTUSDT
+  Files: ['Bybit_Data/data/ZENTUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZENTUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZENTUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZENTUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZENUSDT
+  Files: ['Bybit_Data/data/ZENUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZENUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZENUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZENUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZEREBROUSDT
+  Files: ['Bybit_Data/data/ZEREBROUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZEREBROUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZEREBROUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZEREBROUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZEROUSDT
+  Files: ['Bybit_Data/data/ZEROUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZEROUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZEROUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZEROUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZETAUSDT
+  Files: ['Bybit_Data/data/ZETAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZETAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZETAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZETAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZEXUSDT
+  Files: ['Bybit_Data/data/ZEXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZEXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZEXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZEXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZIGUSDT
+  Files: ['Bybit_Data/data/ZIGUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZIGUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZIGUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZIGUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZILUSDT
+  Files: ['Bybit_Data/data/ZILUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZILUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZILUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZILUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZKCUSDT
+  Files: ['Bybit_Data/data/ZKCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZKCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZKCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZKCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZKJUSDT
+  Files: ['Bybit_Data/data/ZKJUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZKJUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZKJUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZKJUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZKLUSDT
+  Files: ['Bybit_Data/data/ZKLUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZKLUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZKLUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZKLUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZKUSDT
+  Files: ['Bybit_Data/data/ZKUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZKUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZKUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZKUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZORAUSDT
+  Files: ['Bybit_Data/data/ZORAUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZORAUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZORAUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZORAUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZRCUSDT
+  Files: ['Bybit_Data/data/ZRCUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZRCUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZRCUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZRCUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZROUSDT
+  Files: ['Bybit_Data/data/ZROUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZROUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZROUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZROUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZRXUSDT
+  Files: ['Bybit_Data/data/ZRXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZRXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZRXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZRXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
+✓ ZTXUSDT
+  Files: ['Bybit_Data/data/ZTXUSDT_bybit_spot_72h_1h.csv', 'Bybit_Data/data/ZTXUSDT_bybit_spot_5d_1h.csv', 'Bybit_Data/data/ZTXUSDT_bybit_spot_5d_1h.xlsx', 'Bybit_Data/data/ZTXUSDT_bybit_spot.xlsx']
+  Validation: Passed
+
